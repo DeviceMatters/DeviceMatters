@@ -23,7 +23,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ciscopackettracer-1679A7?&style=for-the-badge&logo=Ciscopackettracer&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ciscopackettracer-1679A7?&style=for-the-badge&logo=Cisco packet tracer&logoColor=white" />
 </div>
 
 ## Certifications
