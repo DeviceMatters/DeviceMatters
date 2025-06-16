@@ -6,7 +6,6 @@ Introduction
 I am a 2nd year BCA student in jaiput from University of Rajasthan , with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity.
 
@@ -18,12 +17,27 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |           | <a href="https://google.com"></a>|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+### Reconnaissance & Information Gathering
+<div>
+    <img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Whois-1679A7?&style=for-the-badge&logo=Whois&logoColor=white" />
+    <img src="https://img.shields.io/badge/TheHarvester-1679A7?&style=for-the-badge&logo=TheHarvester&logoColor=white" />
+    <img src="https://img.shields.io/badge/Reconing-1679A7?&style=for-the-badge&logo=Recon-ng&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dnsenum/Dnsrecon-1679A7?&style=for-the-badge&logo=Dnsenum&logoColor=white" />
+    <img src="https://img.shields.io/badge/Bug Bounty Tool-1679A7?&style=for-the-badge&logo=Bug&logoColor=white" />
+</div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/Cisco packet tracer-1679A7?&style=for-the-badge&logo=Ciscopackettracer&logoColor=white" />
+</div>
+
+### Vunlerability Scanning
+<div>
+    <img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nessus-1679A7?&style=for-the-badge&logo=Nessus&logoColor=white" />
+    <img src="https://img.shields.io/badge/Burp Suite-1679A7?&style=for-the-badge&logo=Burpsuite&logoColor=white" />
 </div>
 
 ## Certifications
