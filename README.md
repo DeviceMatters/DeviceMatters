@@ -10,7 +10,6 @@ I am a 2nd year BCA student in jaiput from University of Rajasthan , with a prof
 My journey in computer science has led me to develop a passion for cybersecurity.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -35,14 +34,35 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ### Vunlerability Scanning
 <div>
-    <img src="https://img.shields.io/badge/-Nmap-1679A7?&style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/Nessus-1679A7?&style=for-the-badge&logo=Nessus&logoColor=white" />
     <img src="https://img.shields.io/badge/Burp Suite-1679A7?&style=for-the-badge&logo=Burpsuite&logoColor=white" />
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+### Exploitation
 <div>
+    <img src="https://img.shields.io/badge/Metasploit Framework-1679A7?&style=for-the-badge&logo=Whois&logoColor=white" />
+    <img src="https://img.shields.io/badge/Explot DB-1679A7?&style=for-the-badge&logo=Whois&logoColor=white" />
+</div>
+
+### Password Attack & Cracking 
+<div>
+    <img src="https://img.shields.io/badge/john the Ripper-1679A7?&style=for-the-badge&logo=Whois&logoColor=white" />
+    <img src="https://img.shields.io/badge/Hydra-1679A7?&style=for-the-badge&logo=Whois&logoColor=white" />
+</div>
+
+### Web Application Testing
+<div>
+    <img src="https://img.shields.io/badge/Burp Suite-1679A7?&style=for-the-badge&logo=Whois&logoColor=white" />
+    <img src="https://img.shields.io/badge/OWASP ZAP-1679A7?&style=for-the-badge&logo=Whois&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQLMap-1679A7?&style=for-the-badge&logo=Whois&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dirb/Dirbuster-1679A7?&style=for-the-badge&logo=Whois&logoColor=white" />
+</div>
+
+###
+
+## Certifications
+<div>
+    
 </div>
 
 ## Projects
